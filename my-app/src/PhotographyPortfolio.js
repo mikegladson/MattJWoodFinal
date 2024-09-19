@@ -7,7 +7,7 @@ const PhotographyPortfolio = () => {
 
   // Replace with your actual photo data
   const photos = [
-    { id: 1, src: "/api/placeholder/800/600", alt: "Photo 1" },
+    { id: 1, src: "/MattJWoodFinal/Images/cityscape.jpg", alt: "Cityscape" },
     { id: 2, src: "/api/placeholder/600/800", alt: "Photo 2" },
     { id: 3, src: "/api/placeholder/800/800", alt: "Photo 3" },
     // Add more photos as needed
