@@ -7,10 +7,10 @@ const PhotographyPortfolio = () => {
 
   // Replace with your actual photo data
   const photos = [
-    { id: 1, src: "/Users/michaelgladson/Documents/GitHub/MattJWoodFinal/Images/cityscape.jpg", alt: "Cityscape" },
-    { id: 4, src: "/Users/michaelgladson/Documents/GitHub/MattJWoodFinal/Images/professional.jpg", alt: "Professional" },
-    { id: 5, src: "/Users/michaelgladson/Documents/GitHub/MattJWoodFinal/Images/sports.jpg", alt: "Sports" },
-    { id: 6, src: "/Users/michaelgladson/Documents/GitHub/MattJWoodFinal/Images/wedding.jpg", alt: "Wedding" }
+    { id: 1, src: "my-app/public/images/cityscape.jpg", alt: "Cityscape" },
+    { id: 4, src: "my-app/public/images/professional.jpg", alt: "Professional" },
+    { id: 5, src: "my-app/public/images/sports.jpg", alt: "Sports" },
+    { id: 6, src: "my-app/public/images/wedding.jpg", alt: "Wedding" }
   ];
 
   // Replace with your actual social media links and email
