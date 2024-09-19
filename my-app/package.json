@@ -1,9 +1,9 @@
 {
-"homepage": "https://mikegladson.github.io/MattJWoodFinal",
-"scripts": {
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build"
-},
+  "homepage": "https://mikegladson.github.io/MattJWoodFinal",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -43,5 +43,4 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
-}
 }
